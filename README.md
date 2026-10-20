@@ -42,7 +42,7 @@ Production-ready PHP 8.1+ библиотека Smtp (CloudCastle).
 [![Maintainability](https://qlty.sh/gh/admin-cloud-castle/projects/smtp/maintainability.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/smtp)
 [![Qlty Coverage](https://qlty.sh/gh/admin-cloud-castle/projects/smtp/coverage.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/smtp)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/admin-cloud-castle/smtp/badge)](https://scorecard.dev/viewer/?uri=github.com/admin-cloud-castle/smtp)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects?as=badge&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fsmtp)](https://www.bestpractices.dev/projects?as=entry&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fsmtp)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15730/badge)](https://www.bestpractices.dev/projects/15730)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=admin-cloud-castle_smtp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=admin-cloud-castle_smtp)
 [![Snyk](https://snyk.io/test/github/admin-cloud-castle/smtp/badge.svg)](https://snyk.io/test/github/admin-cloud-castle/smtp)
 [![Codacy](https://img.shields.io/badge/Codacy-dashboard-blue)](https://app.codacy.com/gh/admin-cloud-castle/smtp/dashboard)
